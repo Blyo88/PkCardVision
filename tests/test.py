@@ -6,6 +6,6 @@ print("Blackjack Vision Analyzer")
 print("================================")
 print("OpenCV:", cv2.__version__)
 
-model = YOLO("yolo11n.pt")
+model = YOLO("models/yolo11n.pt")
 
 print("Modelo cargado correctamente")
