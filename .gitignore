@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+
+models/*.pt
+!models/README.md
+
+data/sessions/
+
+.vscode/
